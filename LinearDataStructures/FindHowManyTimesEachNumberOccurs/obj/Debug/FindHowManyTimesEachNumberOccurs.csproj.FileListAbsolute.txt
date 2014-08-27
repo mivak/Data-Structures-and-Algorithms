@@ -1,0 +1,6 @@
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\FindHowManyTimesEachNumberOccurs\bin\Debug\FindHowManyTimesEachNumberOccurs.exe.config
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\FindHowManyTimesEachNumberOccurs\bin\Debug\FindHowManyTimesEachNumberOccurs.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\FindHowManyTimesEachNumberOccurs\bin\Debug\FindHowManyTimesEachNumberOccurs.pdb
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\FindHowManyTimesEachNumberOccurs\obj\Debug\FindHowManyTimesEachNumberOccurs.csprojResolveAssemblyReference.cache
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\FindHowManyTimesEachNumberOccurs\obj\Debug\FindHowManyTimesEachNumberOccurs.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\FindHowManyTimesEachNumberOccurs\obj\Debug\FindHowManyTimesEachNumberOccurs.pdb

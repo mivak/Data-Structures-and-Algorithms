@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="877dd55b-df58-4370-964c-c835f26b338f">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>MaximalPath/MaximalPath.cs</FileRelativePath>
+        <ProjectRelativePath>MaximalPath/MaximalPath.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>3219568352432470268</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

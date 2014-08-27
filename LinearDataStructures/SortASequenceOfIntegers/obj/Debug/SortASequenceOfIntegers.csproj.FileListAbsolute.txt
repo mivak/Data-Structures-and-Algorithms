@@ -1,0 +1,6 @@
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\SortASequenceOfIntegers\bin\Debug\SortASequenceOfIntegers.exe.config
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\SortASequenceOfIntegers\bin\Debug\SortASequenceOfIntegers.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\SortASequenceOfIntegers\bin\Debug\SortASequenceOfIntegers.pdb
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\SortASequenceOfIntegers\obj\Debug\SortASequenceOfIntegers.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\SortASequenceOfIntegers\obj\Debug\SortASequenceOfIntegers.pdb
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\SortASequenceOfIntegers\obj\Debug\SortASequenceOfIntegers.csprojResolveAssemblyReference.cache

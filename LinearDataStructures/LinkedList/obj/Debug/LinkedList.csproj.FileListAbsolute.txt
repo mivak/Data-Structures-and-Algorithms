@@ -1,0 +1,6 @@
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\LinkedList\obj\Debug\LinkedList.pdb

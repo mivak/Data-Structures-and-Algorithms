@@ -1,0 +1,6 @@
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\ReadNIntegersAndReverseThemUsingStack\bin\Debug\ReadNIntegersAndReverseThemUsingStack.exe.config
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\ReadNIntegersAndReverseThemUsingStack\bin\Debug\ReadNIntegersAndReverseThemUsingStack.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\ReadNIntegersAndReverseThemUsingStack\bin\Debug\ReadNIntegersAndReverseThemUsingStack.pdb
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\ReadNIntegersAndReverseThemUsingStack\obj\Debug\ReadNIntegersAndReverseThemUsingStack.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\ReadNIntegersAndReverseThemUsingStack\obj\Debug\ReadNIntegersAndReverseThemUsingStack.pdb
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\ReadNIntegersAndReverseThemUsingStack\obj\Debug\ReadNIntegersAndReverseThemUsingStack.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\FindLongestSubsequenceOfEqualNumbers\bin\Debug\FindLongestSubsequenceOfEqualNumbers.exe.config
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\FindLongestSubsequenceOfEqualNumbers\bin\Debug\FindLongestSubsequenceOfEqualNumbers.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\FindLongestSubsequenceOfEqualNumbers\bin\Debug\FindLongestSubsequenceOfEqualNumbers.pdb
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\FindLongestSubsequenceOfEqualNumbers\obj\Debug\FindLongestSubsequenceOfEqualNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\FindLongestSubsequenceOfEqualNumbers\obj\Debug\FindLongestSubsequenceOfEqualNumbers.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\FindLongestSubsequenceOfEqualNumbers\obj\Debug\FindLongestSubsequenceOfEqualNumbers.pdb

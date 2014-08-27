@@ -1,0 +1,9 @@
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\Labirinth\bin\Debug\Labirinth.exe.config
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\Labirinth\obj\Debug\Labirinth.csprojResolveAssemblyReference.cache
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\Labirinth\bin\Debug\Labirinth.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\Labirinth\bin\Debug\Labirinth.pdb
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\Labirinth\obj\Debug\Labirinth.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\Labirinth\obj\Debug\Labirinth.pdb
+C:\TelerikAcademy\Data Structures & Algorithms\Linear Data Structures\LinearDataStructures\Labirinth\bin\Debug\Labirinth.exe.config
+C:\TelerikAcademy\Data Structures & Algorithms\Linear Data Structures\LinearDataStructures\Labirinth\obj\Debug\Labirinth.exe
+C:\TelerikAcademy\Data Structures & Algorithms\Linear Data Structures\LinearDataStructures\Labirinth\obj\Debug\Labirinth.pdb

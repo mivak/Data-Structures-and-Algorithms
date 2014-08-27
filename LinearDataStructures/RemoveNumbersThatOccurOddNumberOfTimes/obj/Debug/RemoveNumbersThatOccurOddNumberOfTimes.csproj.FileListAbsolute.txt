@@ -1,0 +1,6 @@
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\RemoveNumbersThatOccurOddNumberOfTimes\bin\Debug\RemoveNumbersThatOccurOddNumberOfTimes.exe.config
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\RemoveNumbersThatOccurOddNumberOfTimes\obj\Debug\RemoveNumbersThatOccurOddNumberOfTimes.csprojResolveAssemblyReference.cache
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\RemoveNumbersThatOccurOddNumberOfTimes\bin\Debug\RemoveNumbersThatOccurOddNumberOfTimes.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\RemoveNumbersThatOccurOddNumberOfTimes\bin\Debug\RemoveNumbersThatOccurOddNumberOfTimes.pdb
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\RemoveNumbersThatOccurOddNumberOfTimes\obj\Debug\RemoveNumbersThatOccurOddNumberOfTimes.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\RemoveNumbersThatOccurOddNumberOfTimes\obj\Debug\RemoveNumbersThatOccurOddNumberOfTimes.pdb

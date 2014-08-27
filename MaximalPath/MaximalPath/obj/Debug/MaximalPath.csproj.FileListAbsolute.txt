@@ -1,0 +1,6 @@
+C:\TelerikAcademy\Data Structures & Algorithms\DFS & BFS\MaximalPath\MaximalPath\bin\Debug\MaximalPath.exe.config
+C:\TelerikAcademy\Data Structures & Algorithms\DFS & BFS\MaximalPath\MaximalPath\bin\Debug\MaximalPath.exe
+C:\TelerikAcademy\Data Structures & Algorithms\DFS & BFS\MaximalPath\MaximalPath\bin\Debug\MaximalPath.pdb
+C:\TelerikAcademy\Data Structures & Algorithms\DFS & BFS\MaximalPath\MaximalPath\obj\Debug\MaximalPath.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\Data Structures & Algorithms\DFS & BFS\MaximalPath\MaximalPath\obj\Debug\MaximalPath.exe
+C:\TelerikAcademy\Data Structures & Algorithms\DFS & BFS\MaximalPath\MaximalPath\obj\Debug\MaximalPath.pdb

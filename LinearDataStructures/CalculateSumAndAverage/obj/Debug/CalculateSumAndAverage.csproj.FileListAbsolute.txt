@@ -1,0 +1,9 @@
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\CalculateSumAndAverage\bin\Debug\CalculateSumAndAverage.exe.config
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\CalculateSumAndAverage\bin\Debug\CalculateSumAndAverage.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\CalculateSumAndAverage\bin\Debug\CalculateSumAndAverage.pdb
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\CalculateSumAndAverage\obj\Debug\CalculateSumAndAverage.csprojResolveAssemblyReference.cache
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\CalculateSumAndAverage\obj\Debug\CalculateSumAndAverage.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\CalculateSumAndAverage\obj\Debug\CalculateSumAndAverage.pdb
+C:\TelerikAcademy\Data Structures & Algorithms\Linear Data Structures\LinearDataStructures\CalculateSumAndAverage\bin\Debug\CalculateSumAndAverage.exe.config
+C:\TelerikAcademy\Data Structures & Algorithms\Linear Data Structures\LinearDataStructures\CalculateSumAndAverage\obj\Debug\CalculateSumAndAverage.exe
+C:\TelerikAcademy\Data Structures & Algorithms\Linear Data Structures\LinearDataStructures\CalculateSumAndAverage\obj\Debug\CalculateSumAndAverage.pdb

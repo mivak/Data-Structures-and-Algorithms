@@ -1,0 +1,6 @@
+C:\TelerikAcademy\Data Structures & Algorithms\DFS & BFS\SalaryMoney\SalaryMoney\bin\Debug\SalaryMoney.exe.config
+C:\TelerikAcademy\Data Structures & Algorithms\DFS & BFS\SalaryMoney\SalaryMoney\bin\Debug\SalaryMoney.exe
+C:\TelerikAcademy\Data Structures & Algorithms\DFS & BFS\SalaryMoney\SalaryMoney\bin\Debug\SalaryMoney.pdb
+C:\TelerikAcademy\Data Structures & Algorithms\DFS & BFS\SalaryMoney\SalaryMoney\obj\Debug\SalaryMoney.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\Data Structures & Algorithms\DFS & BFS\SalaryMoney\SalaryMoney\obj\Debug\SalaryMoney.exe
+C:\TelerikAcademy\Data Structures & Algorithms\DFS & BFS\SalaryMoney\SalaryMoney\obj\Debug\SalaryMoney.pdb

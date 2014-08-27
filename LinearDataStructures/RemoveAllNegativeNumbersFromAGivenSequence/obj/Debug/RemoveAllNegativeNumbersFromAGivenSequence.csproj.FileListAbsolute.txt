@@ -1,0 +1,6 @@
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\RemoveAllNegativeNumbersFromAGivenSequence\bin\Debug\RemoveAllNegativeNumbersFromAGivenSequence.exe.config
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\RemoveAllNegativeNumbersFromAGivenSequence\bin\Debug\RemoveAllNegativeNumbersFromAGivenSequence.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\RemoveAllNegativeNumbersFromAGivenSequence\bin\Debug\RemoveAllNegativeNumbersFromAGivenSequence.pdb
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\RemoveAllNegativeNumbersFromAGivenSequence\obj\Debug\RemoveAllNegativeNumbersFromAGivenSequence.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\RemoveAllNegativeNumbersFromAGivenSequence\obj\Debug\RemoveAllNegativeNumbersFromAGivenSequence.pdb
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\RemoveAllNegativeNumbersFromAGivenSequence\obj\Debug\RemoveAllNegativeNumbersFromAGivenSequence.csprojResolveAssemblyReference.cache

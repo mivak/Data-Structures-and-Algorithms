@@ -1,0 +1,6 @@
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\ShortestSequenceOfOperations\bin\Debug\ShortestSequenceOfOperations.exe.config
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\ShortestSequenceOfOperations\bin\Debug\ShortestSequenceOfOperations.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\ShortestSequenceOfOperations\bin\Debug\ShortestSequenceOfOperations.pdb
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\ShortestSequenceOfOperations\obj\Debug\ShortestSequenceOfOperations.csprojResolveAssemblyReference.cache
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\ShortestSequenceOfOperations\obj\Debug\ShortestSequenceOfOperations.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\ShortestSequenceOfOperations\obj\Debug\ShortestSequenceOfOperations.pdb

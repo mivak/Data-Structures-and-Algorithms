@@ -1,0 +1,6 @@
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\StackAsAutoResizableArray\bin\Debug\StackAsAutoResizableArray.exe.config
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\StackAsAutoResizableArray\bin\Debug\StackAsAutoResizableArray.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\StackAsAutoResizableArray\bin\Debug\StackAsAutoResizableArray.pdb
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\StackAsAutoResizableArray\obj\Debug\StackAsAutoResizableArray.csprojResolveAssemblyReference.cache
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\StackAsAutoResizableArray\obj\Debug\StackAsAutoResizableArray.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\StackAsAutoResizableArray\obj\Debug\StackAsAutoResizableArray.pdb

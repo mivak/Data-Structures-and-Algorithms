@@ -1,0 +1,9 @@
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\FindTheMajorantOfAnArray\bin\Debug\FindTheMajorantOfAnArray.exe.config
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\FindTheMajorantOfAnArray\bin\Debug\FindTheMajorantOfAnArray.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\FindTheMajorantOfAnArray\bin\Debug\FindTheMajorantOfAnArray.pdb
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\FindTheMajorantOfAnArray\obj\Debug\FindTheMajorantOfAnArray.csprojResolveAssemblyReference.cache
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\FindTheMajorantOfAnArray\obj\Debug\FindTheMajorantOfAnArray.exe
+C:\Users\Misho\Desktop\DSA\Linear Data Structures\LinearDataStructures\FindTheMajorantOfAnArray\obj\Debug\FindTheMajorantOfAnArray.pdb
+C:\TelerikAcademy\Data Structures & Algorithms\Linear Data Structures\LinearDataStructures\FindTheMajorantOfAnArray\bin\Debug\FindTheMajorantOfAnArray.exe.config
+C:\TelerikAcademy\Data Structures & Algorithms\Linear Data Structures\LinearDataStructures\FindTheMajorantOfAnArray\obj\Debug\FindTheMajorantOfAnArray.exe
+C:\TelerikAcademy\Data Structures & Algorithms\Linear Data Structures\LinearDataStructures\FindTheMajorantOfAnArray\obj\Debug\FindTheMajorantOfAnArray.pdb
